@@ -1,22 +1,27 @@
 # React/Redux Links
-Curated links I've collected on React, Redux, ES6, and more, meant to be a collection of high-quality articles and resources for someone who wants to learn about the React-Redux ecosystem.  Not quite "awesome", but hopefully useful as a starting point I can give to others.  Suggestions welcome.
+Curated tutorial and resource links I've collected on React, Redux, ES6, and more, meant to be a collection of high-quality articles and resources for someone who wants to learn about the React-Redux ecosystem.  Not quite "awesome", but hopefully useful as a starting point I can give to others.  Suggestions welcome.
 
 
 ## Table of Contents
 
-#### Basic Tutorials and Project Setup
-- [React Tutorials](react-tutorials.md)
+#### Project Setup
+- [Git Resources and Tutorials](git-resources.md)
 - [Node.js and NPM](node-js-and-npm.md)
 - [Webpack Tutorials](webpack-tutorials.md)
 - [Boilerplates and Starter Kits](boilerplates-and-starter-kits.md)
 
-#### In-Depth Concepts - ES6, Flux/Redux, and Immutable Data
+#### Basic Tutorials
+- [React Tutorials](react-tutorials.md)
+- [Flux Tutorials](flux-tutorials.md)
+- [Redux Tutorials](redux-tutorials.md)
+
+#### Advanced Concepts
 - [ES6 Features and Samples](es6-features.md)
 - [Using React with ES6](using-react-with-es6.md)
-- [Flux tutorials](flux-tutorials.md)
-- [Redux tutorials](redux-tutorials.md)
-- [Immutable Data concepts](immutable-data.md)
+- [Functional Programming](functional-programming.md)
+- [Immutable Data](immutable-data.md)
 - [React/Redux Testing](react-redux-testing.md)
+- [React Performance](react-performance.md)
 
 #### Guidelines, Comparisons, and Discussion
 - [Thinking in React and Flux](thinking-in-react-and-flux.md)
@@ -32,7 +37,7 @@ Curated links I've collected on React, Redux, ES6, and more, meant to be a colle
 All of the links in this collection are worth reading, but there's obviously a LOT of them.  Here's a "best-of" list to get you started:
 
 - **React How-To**  
-  https://github.com/petehunt/react-howto
+  https://github.com/petehunt/react-howto  
   Pete Hunt, one of React's creators, gives a high-level suggested order to use when learning React-related technologies (React, NPM, bundlers, ES6, routing, and Flux/Redux)
 
 - **ES6 - The Bits You'll Actually Use**  
