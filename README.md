@@ -1,27 +1,41 @@
 # React/Redux Links
 Curated tutorial and resource links I've collected on React, Redux, ES6, and more, meant to be a collection of high-quality articles and resources for someone who wants to learn about the React-Redux ecosystem.  Not quite "awesome", but hopefully useful as a starting point I can give to others.  Suggestions welcome.
 
+You might also want to check out my categorized list of Redux-related addons, libraries, and utilities, at [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links).
+
 
 ## Table of Contents
 
-#### Project Setup
+#### Getting Started
+- [Basic Concepts and Overviews](basic-concepts.md)
 - [Git Resources and Tutorials](git-resources.md)
 - [Node.js and NPM](node-js-and-npm.md)
 - [Webpack Tutorials](webpack-tutorials.md)
 - [Boilerplates and Starter Kits](boilerplates-and-starter-kits.md)
 
 #### Basic Tutorials
+- [ES6 Features and Samples](es6-features.md)
 - [React Tutorials](react-tutorials.md)
 - [Flux Tutorials](flux-tutorials.md)
 - [Redux Tutorials](redux-tutorials.md)
 
-#### Advanced Concepts
-- [ES6 Features and Samples](es6-features.md)
+#### Intermediate Concepts 
+
 - [Using React with ES6](using-react-with-es6.md)
 - [Functional Programming](functional-programming.md)
 - [Immutable Data](immutable-data.md)
 - [React/Redux Testing](react-redux-testing.md)
+
+#### Advanced Topics
+
 - [React Performance](react-performance.md)
+- [React/Redux Architecture](react-redux-architecture.md)
+- [React Styling](react-styling.md)
+- [Redux Side Effects](redux-side-effects.md)
+- [Redux Tips and Techniques](redux-techniques.md)
+- [Webpack Advanced Techniques](webpack-advanced-techniques.md)
+
+
 
 #### Guidelines, Comparisons, and Discussion
 - [Thinking in React and Flux](thinking-in-react-and-flux.md)
